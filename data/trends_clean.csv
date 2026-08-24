@@ -1,0 +1,73 @@
+post_id,title,category,score,num_comments,author,collected_at
+49402232,Why your local LLM feels dumber than it is,technology,257,84,felineflock,2026-08-23 11:05:39.472904
+49387959,How a Texas student blew the whistle on a rogue AI hacking attempt,technology,140,45,olalonde,2026-08-23 11:05:41.236720
+49379732,ATProto spaces: A new extension to ATProto that enables non-public data,technology,130,18,grappler,2026-08-23 11:05:42.705452
+49393051,A week of using Codex more than Claude,technology,168,183,speckx,2026-08-23 11:05:43.294510
+49394827,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",technology,82,48,dariusmonsef,2026-08-23 11:05:46.819909
+49392536,One night in Uzbekistan: Why was this one data point so influential?,technology,89,17,paulpauper,2026-08-23 11:05:47.405317
+49364296,Show HN: terminal-code – VS Code inside the terminal,technology,87,20,robpruzan,2026-08-23 11:05:50.072820
+49405966,Palantir's Karp – frontier AI labs that are 'trying to drug addict us',technology,8,2,rishabhd,2026-08-23 11:05:51.556224
+49357530,"AI boosted homework scores, then exam scores dropped: study",technology,372,371,dash2,2026-08-23 11:05:52.153854
+49401549,Anthropic appears to be A/B testing reduced effort levels in Claude Code,technology,179,163,matthieu_bl,2026-08-23 11:05:53.054737
+49395628,There's no reason for software to be slow anymore,technology,626,481,Jach,2026-08-23 11:05:53.354366
+49380303,Early-life stress leaves a 'scar' inside brain cells in mice,technology,141,69,gmays,2026-08-23 11:05:53.652784
+49405520,Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?,technology,10,6,zhuchaokn,2026-08-23 11:05:54.553035
+49405117,Software Engineering in the Agentic Era,technology,18,7,silverpiranha,2026-08-23 11:05:55.452646
+49392099,How Thailand Resisted Colonization,technology,123,45,karakoram,2026-08-23 11:05:56.350477
+49405471,Microsoft Entra ID Remote Code Execution Vulnerability,technology,10,1,mooreds,2026-08-23 11:05:57.551503
+49386895,Felony charges for citizen deleting phone data at US Border,technology,1063,1295,floathub,2026-08-23 11:05:57.850038
+49404869,AI has failed to win people's trust. Its makers? less trusted,technology,26,3,billybuckwheat,2026-08-23 11:05:58.149690
+49383026,AI companies destroy physical books – let's scan rare books before it's too late,technology,615,894,Cider9986,2026-08-23 11:05:59.345342
+49374729,Guess which of these LLM outputs is watermarked,technology,65,74,gfysfm,2026-08-23 11:05:59.940083
+49405505,Apple degrades privacy and encryption of iMessage with AI integrations,technology,9,1,daniel_iversen,2026-08-23 11:06:00.538963
+49389441,I ran Photoshop on a £0.60 computer chip,technology,148,45,colinprince,2026-08-23 11:06:02.038567
+49364721,A revisit of remote Spectre attacks on Cloudflare Workers,technology,76,4,albertpedersen,2026-08-23 11:06:02.338213
+49398904,"Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",technology,208,172,sbulaev,2026-08-23 11:06:02.934597
+49390463,"Building an (almost) fully self-hosted, sandboxed, agentic software factory",technology,116,60,jakelsaunders94,2026-08-23 11:06:05.632375
+49404932,A look at CrossPoint e-reader firmware,worldnews,7,0,pykello,2026-08-23 11:06:18.666368
+49380200,Protocol-Aware Deterministic Simulation Testing,worldnews,11,0,sebg,2026-08-23 11:06:22.262179
+49329506,ESP32 Firmware Development with Docker Sandboxes,worldnews,53,17,mfranzon,2026-08-23 11:06:36.138428
+49403074,"QEMU, now with almost full NeXT Black/M68K hardware support",worldnews,7,0,wmlive,2026-08-23 11:06:44.894523
+49400900,Wildfires across Europe detonate forgotten World War bombs,worldnews,25,2,geox,2026-08-23 11:06:57.527257
+49404624,Jane Street took $15B hit in July tied to Situational Awareness,worldnews,9,5,paulpauper,2026-08-23 11:07:00.264065
+49351324,Beware Management Consultants,worldnews,623,158,KolmogorovComp,2026-08-23 11:07:48.110782
+49338328,"Quake Shareware, a CD-ROM just a little too full",worldnews,491,225,shdon,2026-08-23 11:08:03.391024
+49391447,Show HN: Oasis - Giving Agents Situational Awareness,worldnews,7,3,ns90001,2026-08-23 11:08:09.250369
+49402583,Microsoft accused of leaking Dutch civil servants' names to US Government,worldnews,8,0,anigbrowl,2026-08-23 11:08:32.702183
+49373822,Conway's Game of Life in real life,sports,50,12,surprisetalk,2026-08-23 11:08:52.840356
+49332812,Using an old Android phone as a music player,sports,62,38,surprisetalk,2026-08-23 11:09:12.175473
+49363710,Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams,sports,87,31,guyb3,2026-08-23 11:09:42.491118
+49355607,Show HN: Automatically detect and patch walking-dead states in Sierra games,sports,160,97,wkfauna,2026-08-23 11:10:12.115334
+49309248,Evolve: An incremental game about evolving a civilization,sports,91,30,frozenseven,2026-08-23 11:10:59.321089
+49355142,Sticky wage norms and the real wage cost of unexpected inflation,sports,391,286,jplusequalt,2026-08-23 11:11:15.455145
+49383582,Micron announces $10B research hub in Boise,science,129,71,osnium123,2026-08-23 11:11:51.891801
+49377853,I should have loved biology (2020),science,336,130,tyre,2026-08-23 11:12:09.882589
+49332981,Universal health coverage could save $1T and 114k lives a year: study,science,901,972,karakoram,2026-08-23 11:12:24.263755
+49362934,"Remote workers report the highest well-being in study of 7,700 employees",science,646,351,downbad_,2026-08-23 11:12:27.532874
+49396060,New human genome has almost no gaps,science,6,0,gmays,2026-08-23 11:12:31.177099
+49378630,Watching TikTok and Instagram deactivates the cognitive control network: Study,science,354,120,Akasci,2026-08-23 11:12:33.300380
+49323227,"Making stinkarm stink less, or more – userspace armv7 emulator",science,9,3,xnacly,2026-08-23 11:12:47.083359
+49389846,"Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",entertainment,27,7,jardy,2026-08-23 11:13:58.923715
+49402213,Figmimic – A bookmarklet to copy any webpage into Figma as editable layers,entertainment,80,10,speckx,2026-08-23 11:13:59.825885
+49402181,I set a trap for a book-marketing scammer (2025),entertainment,24,17,rznicolet,2026-08-23 11:14:00.763685
+49402521,Show HN: Make your logo extra bright on HDR screens,entertainment,56,66,telecuda,2026-08-23 11:14:06.477750
+49361478,Show HN: Anonymous age verification with passkey-powered encryption,entertainment,39,18,mikeysight,2026-08-23 11:14:09.733101
+49391168,Show HN: Rotation via Double Reflection,entertainment,55,11,laszlokorte,2026-08-23 11:14:11.819104
+49392677,Show HN: Zcomplete – Shell Typo Correction,entertainment,16,2,omarfakih,2026-08-23 11:14:15.395781
+49346135,Show HN: Shoehorn – Quantize any model down to run on your machine,entertainment,96,16,rhgraysonii,2026-08-23 11:14:27.080842
+49326852,"Show HN: Rex, a parallel functional language for scientific workflows",entertainment,28,6,peterkelly,2026-08-23 11:14:33.999030
+49355105,Children's stunted lungs show recovery in ultra low emission zone,entertainment,416,410,dabinat,2026-08-23 11:14:35.801900
+49378950,Tidal Cycles – Live coding music with Algorithmic patterns,entertainment,79,16,gjvc,2026-08-23 11:14:54.690113
+49375244,Show HN: Open-source Stripe Connect alternative,entertainment,82,36,tinyprojects,2026-08-23 11:14:56.784667
+49403831,Books That Will Change the Way You Look at the World,entertainment,7,5,theanonymousone,2026-08-23 11:15:10.872759
+49345476,Python Polars Cheatsheet (based on our O'Reilly book),entertainment,195,41,jeroenjanssens,2026-08-23 11:15:17.229277
+49395297,"Show HN: EchoVault, an app that interviews you and answers as you after death",entertainment,9,6,kingbillion1,2026-08-23 11:15:23.200156
+49331551,"Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",entertainment,70,61,mcclowes,2026-08-23 11:15:36.279377
+49377660,Show HN: We chased a weather balloon across Montana and never found it,entertainment,60,26,radeeyate,2026-08-23 11:15:37.180747
+49382022,"Show HN: ParqDB – Vector search in the browser from Parquet over HTTP""",entertainment,26,4,petrizhang,2026-08-23 11:15:41.129600
+49327643,Show HN: Desktopcolors.com – A museum for solid background colors of classic OS,entertainment,166,75,vlowrian,2026-08-23 11:15:47.097447
+49354664,"Show HN: Interactive, animated architecture of any HuggingFace models",entertainment,113,12,lizhaoliu,2026-08-23 11:15:52.158857
+49394759,"I own 28,000 books – here's what I've learned",entertainment,26,6,bvanbranden,2026-08-23 11:15:55.275391
+49400356,Logging Back into Facebook,entertainment,6,3,jger15,2026-08-23 11:16:06.919484
+49323983,Wellington second-hand bookstore's mysterious orders,entertainment,86,84,beanaroo,2026-08-23 11:16:19.511870
+49389972,"Show HN: Gramola, a CoverFlow-style music dock for macOS",entertainment,7,2,fulltimefeline,2026-08-23 11:16:19.823346
